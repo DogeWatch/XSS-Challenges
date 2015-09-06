@@ -1,6 +1,7 @@
 # XSS-Challenges
 http://xss-quiz.int21h.jp/
-全部在IE11浏览器上作答
+
+使用IE11浏览器
 
 1 \<img onclick="alert(document.domain);" src=\>
 
